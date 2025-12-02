@@ -1,8 +1,5 @@
-
-drive/
-.config/
-sample_data/
-visual-grounding-adapter/
-src/storage/
-*.safetensors
+*.ipynb_checkpoints
+__pycache__/
 *.bin
+*.safetensors
+/data
